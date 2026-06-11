@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: shakil-bot-v3
+    env: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 3000
+      - key: APPSTATE
+        sync: false
+    autoDeploy: false

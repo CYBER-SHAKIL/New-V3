@@ -1,0 +1,3 @@
+- [FCA sendMessage group bug](fca-sendmessage-bug.md) — xnil-ypb-fca uses `<= 15` digit threshold breaking 15-digit group IDs; fix: `< 15` + pass isGroup explicitly.
+- [SHAKIL BOT V3 config fixes](shakil-bot-config-fixes.md) — adminOnly+whiteListMode disabled, noPrefix/reactUnsend added to handler, Bot.js+Baby.js double-reply fixed.
+- [SHAKIL BOT V3 repo sync](shakil-bot-repo-sync.md) — alias conflicts, dead API fixes, system folder copy pattern when syncing from CYBER-SHAKIL/Goat-bot-v3 repo.
