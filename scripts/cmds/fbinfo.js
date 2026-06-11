@@ -3,7 +3,7 @@ module.exports = {
     name: "fbinfo",
     aliases: ["fbi", "fbinformation"],
     version: "1.1",
-    author: "SHAKIL-HOSSEN",
+    author: "𝗦𝗛𝗔𝗞𝗜𝗟-𝗛𝗢𝗦𝗦𝗘𝗡",
     role: 0,
     shortDescription: "Facebook user info",
     longDescription: "Get Facebook user info safely",

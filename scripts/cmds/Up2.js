@@ -4,7 +4,7 @@ const Canvas = require("canvas");
 
 module.exports = {
   config: {
-    name: "up",
+    name: "up2",
     aliases: ["uptime", "upt"],
     version: "1.7",
     author: "𝗦𝗛𝗔𝗞𝗜𝗟-𝗛𝗢𝗦𝗦𝗘𝗡",

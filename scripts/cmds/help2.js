@@ -63,7 +63,7 @@ function buildPage(page1, page2, page) {
   let body = "";
 
   body += `╭━━━━━━━━━━━━━━━━━━╮\n`;
-  body += `┃  📋 SHAKIL BOT MENU  ┃\n`;
+  body += `┃  📋 𝐒𝐇𝐀𝐊𝐈𝐋 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 𝐕𝟑 𝐌𝐄𝐍𝐔  ┃\n`;
   body += `╰━━━━━━━━━━━━━━━━━━╯\n\n`;
 
   body += `📄 Page: ${page}/2\n\n`;

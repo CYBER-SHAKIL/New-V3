@@ -28,14 +28,14 @@ module.exports = {
 	config: {
 		name: "cmd",
 		version: "1.17",
-		author: "SHAKIL-HOSSEN",
+		author: "𝗦𝗛𝗔𝗞𝗜𝗟-𝗛𝗢𝗦𝗦𝗘𝗡",
 		countDown: 5,
 		role: 2,
 		description: {
 			vi: "Quản lý các tệp lệnh của bạn",
 			en: "Manage your command files"
 		},
-		category: "admin",
+		category: "owner",
 		guide: {
 			vi: "   {pn} load <tên file lệnh>"
 				+ "\n   {pn} loadAll"
