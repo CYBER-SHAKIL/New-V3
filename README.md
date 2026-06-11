@@ -423,7 +423,7 @@ Use the included `render.yaml`. Set `NODE_VERSION=20.20.0` in environment.
 | 🆔 UID | `61590607769212` |
 | 📘 Facebook | [MD SHAKIL HOSSEN](https://www.facebook.com/61588178231072) |
 | ⚡ Platform | Facebook Messenger |
-| 🔧 Base | GoatBot V2 — Custom Fork by CYBER SHAKIL |
+| 🔧 Base | GoatBot V3 — Custom Fork by CYBER SHAKIL |
 | 🤖 Bot Account | `61590672960902` |
 
 </div>
